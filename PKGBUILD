@@ -1,4 +1,3 @@
-# Maintainer: YourName <youremail@example.com>
 pkgname=warzone2100
 pkgver=4.5.4  # Update this based on the actual version
 pkgrel=1
@@ -32,5 +31,4 @@ package() {
     make DESTDIR="${pkgdir}" install
 }
 
-# vim:set ts=2 sw=2 et:
 
