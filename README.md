@@ -3,4 +3,4 @@ this is a pacman file for arch linux
 
 
 ```bash
-git clone [https://github.com/glenson3377/warzone-updater](https://github.com/glenson3377/warzone-updater.git) && cd warzone2100-pkgbuild && makepkg -si
+git clone https://github.com/glenson3377/warzone-updater && cd warzone2100-pkgbuild && makepkg -si
