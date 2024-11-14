@@ -1,5 +1,5 @@
 pkgname=warzone2100
-pkgver=4.5.4  # Update this based on the actual version
+pkgver=4.5.5  # Update this based on the actual version
 pkgrel=1
 pkgdesc="A real-time strategy game set in a post-apocalyptic world"
 arch=('x86_64')
