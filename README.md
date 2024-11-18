@@ -1,4 +1,4 @@
-updated version of warzone cuz im tired od waiting for the package to get updated
+updated version of warzone cuz im tired of waiting for the package to get updated
 this is a pacman file for arch linux
 
 
